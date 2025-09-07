@@ -53,7 +53,5 @@ int main()
 	std::cout << "See?  Best game of the year!" << std::endl;
 	std::cout << std::endl;
 
-	// Clean up and quit
-	system("PAUSE");
 	return 0;
 }
